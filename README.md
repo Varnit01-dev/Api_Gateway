@@ -9,9 +9,11 @@ go get github.com/Varnit01-dev/Api_gateway
 Build and Run
 cd API_GATEWAY go build ./gofiber
 
+
 Benefits:
 
 Enhanced Security: Robust authentication and authorization mechanisms safeguard your API endpoints. 
 Improved Scalability: Easily scale the API Gateway and microservices to accommodate traffic surges. 
 Simplified Deployment and Management: Docker and Kubernetes streamline deployment and management across environments. 
 Flexibility: The architecture is adaptable to various authentication mechanisms and load balancing strategies based on your project's specific needs.
+
