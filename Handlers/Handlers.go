@@ -17,6 +17,11 @@ func (h *Login) Handle(c echo.Context) error {
 }
 
 func chainMiddleware(route Route) []echo.MiddlewareFunc {
+	// function for chain middleware implementation
+
+
+
+
 	
 }
 
