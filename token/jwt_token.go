@@ -24,6 +24,9 @@ func (maker *JWTMaker) CreateTokeneateToken(username string, duration time.Durat
 		return "", err
 	}
 
+
+	
+
 }
 
 func (maker *JWTMaker) VerifyToken(token string) (*Payload, error) {
